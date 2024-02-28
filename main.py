@@ -55,6 +55,8 @@ if daily_forecasts:
         temperature2=forecast.get('Temperature', {}).get('Maximum').get('Value')
         maximum = int(convert_to_celsius(temperature2))
         
+
+        
         print(f'Your day will have ' + day)
         print(f"Date: {date}")
         print(f"Maximum Temperature: {maximum} / Minimum Temperature: {minimum}")
