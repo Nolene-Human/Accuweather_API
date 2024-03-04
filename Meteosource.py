@@ -7,7 +7,7 @@ url = "https://ai-weather-by-meteosource.p.rapidapi.com/daily"
 querystring = {"place_id":"amberley-2193968","language":"en","units":"metric"}
 
 headers = {
-	"X-RapidAPI-Key": "288c14825emsh14cc91fddf688ecp1472e0jsn804504883645",
+	"X-RapidAPI-Key": "YOUR KEY GOES HERE", # UPDATE WITH YOUR OWN KEY
 	"X-RapidAPI-Host": "ai-weather-by-meteosource.p.rapidapi.com"
 }
 

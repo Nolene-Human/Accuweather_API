@@ -18,7 +18,7 @@ base_url="http://dataservice.accuweather.com/forecasts/v1/daily/1day/" #this is 
 
 location_key="247035"
 
-api_key="vj4GmLNRQGrvg3p8CffKuYoYRFgAnlJe"
+api_key="YOUR KEY GOES HERE" # UPDATE WITH YOUR OWN KEY
 
 url=base_url + location_key+ "?apikey=" +api_key
 
